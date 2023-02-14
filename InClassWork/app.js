@@ -5,10 +5,6 @@ let myAgeInMonths = myAge * monthsInYears
 let myFirstName = "Jennie"
 let myLastName = "Zhu"
 
-
-
-
-
 // console.log(myFirstName + ' ' + myLastName)
 // console.log(myFirstName.charAt(0) + myLastName)
 
